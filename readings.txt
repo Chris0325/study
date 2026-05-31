@@ -1,0 +1,4 @@
+"Elements" by Euclid (2015)
+"Real Analysis" by Terence Tao (2025)
+"Scientific Computing An Introductory Survey" by Michael Heath (May 2026)
+"Elementary Number Theory" by David Burton (May 2026)
